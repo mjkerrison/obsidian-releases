@@ -18226,5 +18226,12 @@
     "author": "Truong Gia Bao",
     "description": "Create the Markdown file from your Kindle Vocab Builder in your vault.",
     "repo": "bao-tg/kindle-vocab"
+  },
+  {
+    "id": "simple-kanban",
+    "name": "Simple Kanban",
+    "author": "Michael Kerrison",
+    "description": "Gather tasks from across your vault and define your boards flexibly. Made for me, bringing together what I like about CardBoard, Task Board, Kanban.",
+    "repo": "mjkerrison/obsidian-simple-kanban"
   }
 ]
